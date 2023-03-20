@@ -1,0 +1,2 @@
+This is project is about football manager data. I fixed the  corrupted data and make sure the data is in 3NF form. 
+I did forward engineering also created EER diagram.
